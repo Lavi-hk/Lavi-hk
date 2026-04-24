@@ -126,7 +126,7 @@ Actively contributing to open-source projects, enhancing coding skills, collabor
       <h3>Integrated M.Tech</h3>
       <p><strong>Artificial Intelligence and Machine Learning</strong></p>
       <p>Vellore Institute of Technology</p>
-      <p>2022 - Present</p>
+      <p>2022 - 2027</p>
       <p><em>Pursuing advanced studies in AI/ML with focus on practical applications and research opportunities.</em></p>
     </td>
     <td width="50%">
